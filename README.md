@@ -39,4 +39,4 @@ This repository contains codes for the official implementation in PyTorch of pap
 
 2. python train_DenseNet_shanghai.py
 
-***If you have any questions, do not afraid to contact us.***
+***If you have any questions, do not be afraid to contact us.***
